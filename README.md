@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mikel</h1>
 <h3 align="center">A passionate Telecom engineer from Spain</h3>
 
-- 🔭 I’m currently working on a small startup called [ii40services](https://www.ii40services.com/en/)
+- 🔭 I’m currently studying a  [Master's in IoT in Universidad Politecnica de Madrid](https://masteriot.etsist.upm.es/)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m interested in learning **Computer Vision and Deep Learning** in the future
 
-- 💬 Ask me about **Python, telecomunications**
+- 💬 Ask me about **Telecomunications, IoT and Industry4.0**
 
 - 📫 Reach me on **mikelirazola@gmail.com**
 
